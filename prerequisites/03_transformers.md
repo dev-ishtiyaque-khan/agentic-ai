@@ -193,11 +193,11 @@ Training large transformers requires:
 
 ## 8. Key Takeaways
 
-• Transformers power modern AI systems
-• They use **self-attention to understand relationships between tokens**
-• Attention allows models to process **entire sequences simultaneously**
-• Multi-head attention captures **different language patterns**
-• Most modern LLMs use **decoder-based transformers**
+* Transformers power modern AI systems
+* They use **self-attention to understand relationships between tokens**
+* Attention allows models to process **entire sequences simultaneously**
+* Multi-head attention captures **different language patterns**
+* Most modern LLMs use **decoder-based transformers**
 
 ---
 
