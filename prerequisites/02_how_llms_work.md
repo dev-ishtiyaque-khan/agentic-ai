@@ -212,12 +212,12 @@ They are better at **language patterns** than strict logical reasoning.
 
 ## 8. Key Takeaways
 
-• LLMs work by **predicting the next token**
-• Built using **transformer neural networks**
-• Text is converted into **tokens → embeddings → predictions**
-• Responses are generated **one token at a time**
-• Training happens through **pretraining and fine-tuning**
-• Understanding these mechanics helps build **better AI systems**
+* LLMs work by **predicting the next token**
+* Built using **transformer neural networks**
+* Text is converted into **tokens → embeddings → predictions**
+* Responses are generated **one token at a time**
+* Training happens through **pretraining and fine-tuning**
+* Understanding these mechanics helps build **better AI systems**
 
 ---
 
