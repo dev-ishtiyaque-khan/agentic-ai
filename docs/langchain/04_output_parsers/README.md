@@ -161,6 +161,8 @@ JSON responses may still be **invalid or inconsistent** if the model does not st
 
 It generates **format instructions** that guide the model.
 
+⚠️ It is deprecated and removed in favor of `PydanticOutputParser` which adds strict validation.
+
 ### Example
 
 ```python

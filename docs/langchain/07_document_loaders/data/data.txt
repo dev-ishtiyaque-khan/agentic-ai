@@ -1,0 +1,11 @@
+LangChain is a framework for building applications powered by large language models.
+
+It provides tools for prompt management, document loading, retrieval, and chaining multiple components together.
+
+Developers commonly use LangChain to build systems such as chatbots, question-answering systems, and AI assistants.
+
+One of the most popular architectures built with LangChain is Retrieval Augmented Generation (RAG), where external documents are retrieved and provided as context to the LLM before generating an answer.
+
+LangChain supports integrations with many model providers including OpenAI, Ollama, Anthropic, and others.
+
+The framework also includes utilities for building agents that can reason about tasks and interact with external tools such as APIs, databases, and search engines.

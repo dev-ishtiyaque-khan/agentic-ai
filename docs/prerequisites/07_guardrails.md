@@ -176,11 +176,11 @@ Guardrails should evolve as new risks appear.
 
 # 7. Key Takeaways
 
-• Guardrails are **safety mechanisms for AI systems**
-• They control **input and output behavior**
-• Prevent harmful or unsafe responses
-• Implemented using **filters, policies, and validation layers**
-• Essential for **production AI applications**
+* Guardrails are **safety mechanisms for AI systems**
+* They control **input and output behavior**
+* Prevent harmful or unsafe responses
+* Implemented using **filters, policies, and validation layers**
+* Essential for **production AI applications**
 
 ---
 

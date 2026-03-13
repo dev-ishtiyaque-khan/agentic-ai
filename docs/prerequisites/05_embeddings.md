@@ -237,11 +237,11 @@ Embeddings are often stored in **vector databases** such as:
 
 # 8. Key Takeaways
 
-• Embeddings convert text into **vector representations**
-• Similar meanings produce **similar vectors**
-• Used for **semantic search and retrieval systems**
-• Similarity is typically measured using **cosine similarity**
-• Embeddings are a core building block of **RAG systems**
+* Embeddings convert text into **vector representations**
+* Similar meanings produce **similar vectors**
+* Used for **semantic search and retrieval systems**
+* Similarity is typically measured using **cosine similarity**
+* Embeddings are a core building block of **RAG systems**
 
 ---
 

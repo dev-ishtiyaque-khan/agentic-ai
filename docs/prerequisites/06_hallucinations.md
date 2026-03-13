@@ -198,11 +198,11 @@ Critical applications should use:
 
 # 7. Key Takeaways
 
-• Hallucinations are **incorrect or fabricated AI outputs**
-• They occur because LLMs predict patterns rather than verify facts
-• Hallucinations increase when context is missing
-• Techniques like **RAG and guardrails reduce hallucination risk**
-• Critical systems should always include **validation mechanisms**
+* Hallucinations are **incorrect or fabricated AI outputs**
+* They occur because LLMs predict patterns rather than verify facts
+* Hallucinations increase when context is missing
+* Techniques like **RAG and guardrails reduce hallucination risk**
+* Critical systems should always include **validation mechanisms**
 
 ---
 

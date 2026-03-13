@@ -342,5 +342,4 @@ Steps:
 
 ---
 
-Next, learn how to process long documents using **Text Splitters**.
 Next, learn how to process long documents using [Text Splitters](../08_text_splitters/README.md)
