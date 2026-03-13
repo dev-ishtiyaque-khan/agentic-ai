@@ -225,11 +225,11 @@ Templates are widely used in:
 
 ## 7. Key Takeaways
 
-• Prompt engineering guides LLM behavior
-• Clear prompts produce more reliable outputs
-• Good prompts define **role, task, context, and output format**
-• Techniques include **zero-shot, few-shot, and chain-of-thought**
-• Prompt templates help build scalable AI systems
+* Prompt engineering guides LLM behavior
+* Clear prompts produce more reliable outputs
+* Good prompts define **role, task, context, and output format**
+* Techniques include **zero-shot, few-shot, and chain-of-thought**
+* Prompt templates help build scalable AI systems
 
 ---
 
